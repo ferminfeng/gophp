@@ -21,7 +21,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/techoner/gophp"
+	"github.com/ferminfeng/gophp"
 )
 
 func main() {
